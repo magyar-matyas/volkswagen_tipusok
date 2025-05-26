@@ -1,0 +1,56 @@
+Beetle A5;1.2TSI;2011–2019  
+Beetle A5;2.0TDI;2011–2019  
+Bora Golf4 alapú;1.9TDI;1998–2005  
+Bora Golf4 alapú;2.0;1998–2005  
+Corrado 53i;1.8G60;1988–1995  
+Corrado 53i;2.9VR6;1992–1995  
+Eos 1F;2.0TSI;2006–2015  
+Eos 1F;1.4TSI;2007–2015  
+Fox 5Z;1.2;2005–2011  
+Fox 5Z;1.4TDI;2005–2011  
+Golf 4;1.9TDI;1997–2000  
+Golf 5;1.4TSI;2007–2020  
+Golf 5 GTI;2.0GTI;2004–jelenleg  
+Golf 5;2.0TDI;2003–jelenleg  
+Golf Plus 5M;1.6;2004–2014  
+Golf Plus 5M;1.9TDI;2005–2009  
+ID.3 1st;Pure Performance;2020–jelenleg  
+ID.3 1st;Pro S;2020–jelenleg  
+ID.4 1st;Pro Performance;2021–jelenleg  
+ID.5 1st;GTX;2022–jelenleg  
+ID.7 1st;Pro;2023–jelenleg  
+Jetta 5;1.4TSI;2008–2018  
+Jetta 5;2.0TDI;2005–2018  
+Lupo 6X;1.0;1998–2005  
+Lupo 6X;1.7SDI;1999–2005  
+Lupo 3L 6E;1.2TDI;1999–2005  
+Multivan T5;2.0TDI;2003–jelenleg  
+Multivan T6;2.0TSI;2010–jelenleg  
+Passat B5;1.8T;1996–2005  
+Passat B6/B7;2.0TDI;2005–jelenleg  
+Passat B6/B7;3.6V6;2008–2015  
+Passat CC B6;2.0TDI;2008–2016  
+Passat CC B6;3.6V6;2008–2016  
+Phaeton 3D;3.0TDI;2002–2016  
+Phaeton 3D;6.0W12;2002–2016  
+Polo 9N;1.2MPI;2001–2017  
+Polo 6C;1.0TSI;2015–jelenleg  
+Polo 9N;1.4TDI;2003–2017  
+Scirocco 13;1.4TSI;2008–2017  
+Scirocco 13;2.0TSI;2008–2017  
+Sharan 7M;1.9TDI;1995–2010  
+Sharan 7N;2.0TDI;2010–2022  
+T-Cross C1;1.0TSI;2019–jelenleg  
+T-Roc A11;1.0TSI;2017–jelenleg  
+T-Roc A11;2.0TDI;2017–jelenleg  
+Tiguan 5N;2.0TSI;2007–jelenleg  
+Tiguan 5N;2.0TDI;2007–jelenleg  
+Touareg 7L;3.0TDI;2002–jelenleg  
+Touareg 7L;4.2V8;2003–2010  
+Touareg 7L;6.0W12;2005–2010  
+Touran 1T;1.9TDI;2003–2010  
+Touran 1T/5T;2.0TDI;2003–jelenleg  
+Up! AA;1.0MPI;2011–jelenleg  
+Up! AA;e-Up!;2013–2023  
+Vento A3;1.8;1992–1998  
+Vento A3;1.9TDI;1992–1998  
