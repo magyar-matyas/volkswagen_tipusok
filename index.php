@@ -1,7 +1,6 @@
 <?php
 session_start();
 
-// Adatok beolvasása txt-ből
 $data = file('data.txt', FILE_IGNORE_NEW_LINES | FILE_SKIP_EMPTY_LINES);
 $models = [];
 
@@ -10,7 +9,6 @@ foreach ($data as $line) {
     $models[] = ['model' => $model, 'engine' => $engine, 'year' => $year];
 }
 
-// Szűrés
 $search_model = $_GET['model'] ?? '';
 $search_engine = $_GET['engine'] ?? '';
 $search_year = $_GET['year'] ?? '';
@@ -21,7 +19,6 @@ $filtered = array_filter($models, function($item) use ($search_model, $search_en
            (stripos($item['year'], $search_year) !== false);
 });
 
-// Hozzáadás
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     if (isset($_POST['add'])) {
         $_SESSION['my_list'][] = [

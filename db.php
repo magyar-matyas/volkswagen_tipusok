@@ -1,5 +1,5 @@
 <?php
-$host = 'localhost'; // Változtasd meg, ha nem helyi adatbázist használsz
+$host = 'localhost';
 $dbname = 'volkswagen_db';
 $username = 'root';
 $password = '';
